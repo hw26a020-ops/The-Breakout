@@ -1,0 +1,6 @@
+{
+  "name": "ブロック崩し",
+  "description": "レトロSFスタイルの爽快感抜群なブロック崩しゲーム。パワーアップ、粒子エフェクト、レトロシンセ音を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
